@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
-### Projetos:
-Projetos desenvolvidos no processo da construção do conhecimento em Ciências de Dados (Bitly):
-
-* **Como usar o Histograma para Data Science:** https://**bit.ly/2L2cMwy
+![](https://img.shields.io/badge/biblioteca-Streamlit-blue.svg)
 
 -->
