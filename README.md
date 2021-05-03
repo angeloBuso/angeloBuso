@@ -17,7 +17,7 @@ Sendo assim **quero fazer parte da mudança**, ao invés de ser impactado por el
 
 📫 [LinkedIn](https://www.linkedin.com/in/angelo-buso)
 
-### Portifólio:
+### Para conhecer meu portifólio:
 :card_index_dividers: Projetos desenvolvidos no processo da construção do conhecimento em Ciências de Dados
 http://bit.ly/potifoliobuso
 
